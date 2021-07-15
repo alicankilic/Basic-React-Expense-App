@@ -1,8 +1,10 @@
+import Exp from "./components/ExpenseItems";
+
 function App() {
   return (
     <div>
-      <h2>Let's get started!</h2>
-      <p>this is also visible</p>
+      <h1>this is also visible</h1>
+      <Exp></Exp>
     </div>
   );
 }
