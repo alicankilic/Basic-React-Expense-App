@@ -1,3 +1,4 @@
+import React from "react";
 import ExpenseItem2 from "./components/ExpenseItem2/ExpenseItem2";
 
 
