@@ -5,12 +5,6 @@ import Card from "../Card/Card";
 import ExpenseDate from "../ExpenseDate/ExpenseDate";
 
 const ExpenseItem = (props) => {
-  // const [title, setTitle] = useState(props.title);
-  // const clickHndlr = () => {
-  //   setTitle("Updated");
-  //   console.log("Osman");
-  // };
-
   return (
     <li>
     <Card className="expense-item">
