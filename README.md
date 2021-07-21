@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-# Basic REACT APP FOR EXPERIMENT !!!!
+# Basic REACT APP FOR EXPERIMENT (I have created this project while learning React) !!!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
